@@ -3,19 +3,19 @@ name: WorldGuard
 main: MihaiChirculete\WorldGuard\WorldGuard
 api:
 - 4.0.0
-version: 1.34-beta
+version: 1.34-spanish
 author: MihaiChirculete
-website: https://github.com/MihaiChirculete/WorldGuard
+website: No por ahora
 softdepend:
 - RedstoneCircuit
 commands:
   worldguard:
-    description: Opens up the User Interface of WorldGuard.
+    description: Abre el UI
     aliases:
     - wg
     permission: worldguard.ui
   region:
-    description: Create/Manage/Delete regions.
+    description: Crea/Maneja/BorraRegiones
     aliases:
     - rg
     permission: worldguard.create

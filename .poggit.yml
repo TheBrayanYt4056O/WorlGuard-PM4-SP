@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/TheBrayanYt4056O/WorlGuard-PM4-SP
+build-by-default: true
+branches:
+- main
+projects:
+  WorldGuard:
+    path: WorldGuard/
+...
